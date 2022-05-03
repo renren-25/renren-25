@@ -1,1 +1,1 @@
-From k8s.gcr.io/pause:3.6
+From k8s.gcr.io/etcd:3.5.1-0
