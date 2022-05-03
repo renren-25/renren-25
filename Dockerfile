@@ -1,1 +1,1 @@
-From coredns:v1.8.6
+From k8s.gcr.io/coredns/coredns:v1.8.6
