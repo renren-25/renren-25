@@ -1,1 +1,1 @@
-From docker.io/library/nginx:latest
+From k8s.gcr.io/kube-apiserver:v1.23.6
